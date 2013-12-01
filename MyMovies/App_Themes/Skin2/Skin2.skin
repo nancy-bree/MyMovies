@@ -1,0 +1,6 @@
+﻿<asp:Label runat="server" width="300px" font-bold="true" font-size="large" font-italic="true"/>
+<asp:Button runat="server" forecolor="red"/>
+<asp:Textbox runat="server" width="300px" height="25px" font-bold="true" font-size="medium" font-italic="true"/>
+<asp:DropDownList runat="server" width="310px" height="40px" font-bold="true" font-size="medium" font-italic="true"/>
+<asp:RequiredFieldValidator runat="server" font-bold="true" forecolor="red"/>
+<asp:RangeValidator runat="server" font-bold="true" forecolor="red"/>
